@@ -6,7 +6,10 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST' && isset($_POST['updateProfile'])) {
     
     if (!empty($_FILES['avatar']['name'])) {
         // Get document root path and create relative path to uploads directory
-        $uploadDir = $_SERVER['DOCUMENT_ROOT'] . '/Online-Discussion-Platform/public/uploads/avatars/';
+        $uploadDir = $_SERVER['DOCUMENT_ROOT'] . '/DiscussionPLatform-Konvo/public/uploads/avatars/';
+
+        
+
         
         // Make sure directory exists with proper permissions
         if (!is_dir($uploadDir)) {
