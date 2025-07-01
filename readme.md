@@ -2,7 +2,7 @@
 
 A modern, feature-rich online discussion platform designed for seamless group conversations, knowledge sharing, and community building.
 
-## 🚀 Features
+## Features
 
 - User authentication & profile management
 - Create, edit, and join discussion groups
@@ -12,7 +12,7 @@ A modern, feature-rich online discussion platform designed for seamless group co
 - Responsive UI with Tailwind CSS
 - Role-based access control
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Backend:** PHP (MVC architecture)
 - **Database:** MySQL
@@ -20,7 +20,7 @@ A modern, feature-rich online discussion platform designed for seamless group co
 - **Authentication:** Custom middleware
 - **File Storage:** Local uploads
 
-## 📂 Project Structure
+## Project Structure
 
 - `controllers/` – Business logic (auth, discussions, groups, users)
 - `models/` – Data models (User, Discussion, Group, Reply, Likes, File)
@@ -29,7 +29,7 @@ A modern, feature-rich online discussion platform designed for seamless group co
 - `public/` – Static assets (CSS, uploads)
 - `config/` – Database configuration
 
-## ⚡ Getting Started
+## Getting Started
 
 1. **Clone the repository:**
    ```sh
@@ -42,7 +42,7 @@ A modern, feature-rich online discussion platform designed for seamless group co
 4. **Run the application:**
    - Deploy on a local or remote PHP server (e.g., XAMPP, WAMP, LAMP).
 
-## 🙏 Acknowledgements
+## Acknowledgements
 
 - Inspired by leading online discussion platforms and open-source communities.
 - Built using PHP and MySQL.
