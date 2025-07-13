@@ -1,1 +1,1 @@
-online discussion platform.
+# KONVO Discussion Platform

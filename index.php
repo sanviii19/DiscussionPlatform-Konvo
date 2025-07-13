@@ -2,6 +2,8 @@
 require_once "./controllers/authController.php";
 require_once "./models/Group.php";
 
+
+
 // Check if user is logged in
 $isLoggedIn = isset($_SESSION['user_id']);
 
